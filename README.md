@@ -5,4 +5,5 @@
 - 🎮 I’m interested in games.
 - 😄 Suggestions and feedbacks are always welcome
 - ⚡ Fun fact: I'm a science and maths lover.
-- 📫 How to reach me: 
+- 📫 How to reach me: [Github](https://github.com/avinashpro) [Sololearn](https://www.sololearn.com/Profile/21806406/?ref=app)
+
