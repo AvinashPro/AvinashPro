@@ -1,10 +1,8 @@
-### Hi there! I'm Avinash aka [AvinashPro](https://github.com/AvinashPro)
+### Hey! I'm Avinash,
 
 
-- 🔭 I’m currently working on JavaScript 2D game library, Canvy.js
-- 🎮 I’m interested in games.
-- 😄 Suggestions and feedbacks are always welcome
-- ⚡ Fun fact: I'm a science and maths lover.
+- 🔭 I’m currently interested in Physics
+- 🎮 Games are exciting, I suppose.
 - 👀 Take a look at my [projects](https://avinashpro.github.io/dir/codebits/).
-- 📫 How to reach me: [Github](https://github.com/avinashpro) [Sololearn](https://www.sololearn.com/Profile/21806406/?ref=app) [Telegram](https://t.me/spicoder)
+- 📫 Untitled: [Sololearn](https://www.sololearn.com/Profile/21806406/?ref=app)
 
