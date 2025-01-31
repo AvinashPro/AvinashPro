@@ -1,6 +1,8 @@
-### Hey! I'm Avinash,
+### 私は「Avinash」
 
 
-- 🔭 I’m currently interested in Physics
-- 🎮 Games are exciting, I suppose.
-- 👀 Take a look at my [projects](https://avinashpro.github.io/dir/codebits/).
+- 🌕 笑顔が好きだった
+- 🔭 科学が大好き
+- 🎮 ゲームはエキサイティングだと思います
+- 👀 [アニメ](https://avinashpro.github.io/files/My%20Anime%20List/)が大好き
+- 🌌 唆るぜ、これは!
